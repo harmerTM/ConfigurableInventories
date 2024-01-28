@@ -1,0 +1,8 @@
+{
+    "name": "ConfigurableInventories",
+    "version": "1.0.0",
+    "main": "src/mod.js",
+    "license": "MIT",
+    "author": "Kenni",
+    "akiVersion": "3.7.6"
+}
