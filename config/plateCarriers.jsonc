@@ -1,0 +1,1211 @@
+[
+  {
+    "name": "Ars Arma A18 Skanda plate carrier",
+    "itemID": "5d5d87f786f77427997cfaef",
+    "layout": "A18", // Default: "A18"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 12
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 13
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 14
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 15
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "NPP KlASS Bagariy armored rig",
+    "itemID": "628d0618d1ba6e4fa07ce5a4",
+    "layout": "bagarii", // Default: "bagarii"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 11
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 12
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 13
+      {
+        "horizontal": 2,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "CQC Osprey MK4A plate carrier (Assault, MTP)",
+    "itemID": "60a3c70cde5f453f634816a3",
+    "layout": "osprey_assault", // Default: "osprey_assault"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 12
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 13
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 14
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "CQC Osprey MK4A plate carrier (Protection, MTP)",
+    "itemID": "60a3c68c37ea821725773ef5",
+    "layout": "osprey_deffence", // Default: "osprey_deffence"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "WARTECH TV-110 plate carrier",
+    "itemID": "5c0e746986f7741453628fe5",
+    "layout": "TV-110", // Default: "TV-110"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 2,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Ars Arma CPC MOD.1 plate carrier",
+    "itemID": "5e4ac41886f77406a511c9a8",
+    "layout": "cpc_m2", // Default: "cpc_m2"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 6
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Crye Precision AVS plate carrier",
+    "itemID": "544a5caa4bdc2d1a388b4568",
+    "layout": "Avs", // Default: "Avs"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 12
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "ANA Tactical M1 plate carrier",
+    "itemID": "5c0e722886f7740458316a57",
+    "layout": "ANA Tactical M1", // Default: "ANA Tactical M1"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "ECLiPSE RBAV-AF plate carrier (Ranger Green)",
+    "itemID": "628dc750b910320f4c27a732",
+    "layout": "rbaf_af", // Default: "rbaf_af"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "5.11 Tactical TacTec plate carrier",
+    "itemID": "5b44cad286f77402a54ae7e5",
+    "layout": "Carrier Tactec", // Default: "Carrier Tactec"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 12
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Crye Precision CPC plate carrier (Goons Edition)",
+    "itemID": "628b9c7d45122232a872358f",
+    "layout": "knight", // Default: "knight"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "ANA Tactical M2 plate carrier",
+    "itemID": "5ab8dced86f774646209ec87",
+    "layout": "ANA Tactical M2", // Default: "ANA Tactical M2"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 2,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "FirstSpear Strandhogg plate carrier (Ranger Green)",
+    "itemID": "61bcc89aef0f505f0c6cd0fc",
+    "layout": "Strandhogg", // Default: "Strandhogg"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 2,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Shellback Tactical Banshee plate carrier (A-TACS AU)",
+    "itemID": "639343fce101f4caa40a4ef3",
+    "layout": "Banshee", // Default: "Banshee"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Eagle Industries MMAC plate carrier (Ranger Green)",
+    "itemID": "61bc85697113f767765c7fe7",
+    "layout": "mmac", // Default: "mmac"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "WARTECH TV-115 plate carrier",
+    "itemID": "64a536392d2c4e6e970f4121",
+    "layout": "tv115", // Default: "tv115"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 3
+      }
+    ]
+  },
+  {
+    "name": "Eagle Allied Industries MBSS plate carrier",
+    "itemID": "64a5366719bab53bd203bf33",
+    "layout": "mbss_rig", // Default: "mbss_rig"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 2,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 3
+      }
+    ]
+  },
+  {
+    "name": "Crye Precision AVS plate carrier (Tagilla Edition)",
+    "itemID": "609e860ebd219504d8507525",
+    "layout": "Tagil", // Default: "Tagil"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "6B3TM-01M armored rig",
+    "itemID": "5d5d646386f7742797261fd9",
+    "layout": "6h112", // Default: "6h112"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "S&S Precision PlateFrame plate carrier (Goons Edition)",
+    "itemID": "628b9784bcf6e2659e09b8a2",
+    "layout": "boss_big_pipe", // Default: "boss_big_pipe"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "6B5-16 Zh-86 Uley armored rig",
+    "itemID": "5c0e3eb886f7742015526062",
+    "layout": "6b5", // Default: "6b5"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "6B5-15 Zh-86 Uley armored rig",
+    "itemID": "5c0e446786f7742013381639",
+    "layout": "6b5", // Default: "6b5"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Tasmanian Tiger SK plate carrier (Multicam Black)",
+    "itemID": "628cd624459354321c4b7fa2",
+    "layout": "tt_plate_carrier", // Default: "tt_plate_carrier"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  }
+]

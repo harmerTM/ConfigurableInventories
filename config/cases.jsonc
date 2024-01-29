@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Lucky Scav Junk box",
+    "itemID": "5b7c710788a4506dec015957",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 20,
+        "vertical": 16
+      }
+    ]
+  },
+  {
+    "name": "T H I C C item case",
+    "itemID": "5c0a840b86f7742ffa4f2482",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 20,
+        "vertical": 16
+      }
+    ]
+  },
+  {
+    "name": "Dogtag case",
+    "itemID": "5c093e3486f77430cb02e593",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 14,
+        "vertical": 14
+      }
+    ]
+  },
+  {
+    "name": "T H I C C Weapon case",
+    "itemID": "5b6d9ce188a4501afc1b2b25",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 13,
+        "vertical": 13
+      }
+    ]
+  },
+  {
+    "name": "Item case",
+    "itemID": "59fb042886f7746c5005a7b2",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 11,
+        "vertical": 11
+      }
+    ]
+  },
+  {
+    "name": "Grenade case",
+    "itemID": "5e2af55f86f7746d4159f07c",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 11,
+        "vertical": 11
+      }
+    ]
+  },
+  {
+    "name": "Mr. Holodilnick thermal bag",
+    "itemID": "5c093db286f7740a1b2617e3",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 11,
+        "vertical": 11
+      }
+    ]
+  },
+  {
+    "name": "Weapon case",
+    "itemID": "59fb023c86f7746d0d4b423c",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 10,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "Medicine case",
+    "itemID": "5aafbcd986f7745e590fff23",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 10,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "Magazine case",
+    "itemID": "5c127c4486f7745625356c13",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 10,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "Ammunition case",
+    "itemID": "5aafbde786f774389d0cbc0f",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 10,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "Money case",
+    "itemID": "5aafbde786f774389d0cbc0f",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 10,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "S I C C organizational pouch",
+    "itemID": "5d235bb686f77443f4331278",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 7,
+        "vertical": 7
+      }
+    ]
+  },
+  {
+    "name": "Documents Case",
+    "itemID": "590c60fc86f77412b13fddcf",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 6
+      }
+    ]
+  },
+  {
+    "name": "Key tool",
+    "itemID": "59fafd4b86f7745ca07e1232",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 6
+      }
+    ]
+  },
+  {
+    "name": "Pistol case",
+    "itemID": "567143bf4bdc2d1a0f8b4567",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 5,
+        "vertical": 5
+      }
+    ]
+  },
+  {
+    "name": "Injector case",
+    "itemID": "619cbf7d23893217ec30b689",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 4,
+        "vertical": 4
+      }
+    ]
+  },
+  {
+    "name": "Keycard holder case",
+    "itemID": "619cbf9e0a7c3a1a2731940a",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 4,
+        "vertical": 4
+      }
+    ]
+  },
+  {
+    "name": "Gingy keychain",
+    "itemID": "619cbf9e0a7c3a1a2731940a",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 3,
+        "vertical": 3
+      }
+    ]
+  },
+  {
+    "name": "Simple wallet",
+    "itemID": "5783c43d2459774bbe137486",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 3,
+        "vertical": 3
+      }
+    ]
+  },
+  {
+    "name": "WZ Wallet",
+    "itemID": "60b0f6c058e0b0481a09ad11",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 3,
+        "vertical": 3
+      }
+    ]
+  }
+]

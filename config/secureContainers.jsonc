@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Secure container Kappa",
+    "itemID": "5c093ca986f7740a1867ab12",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 4
+      }
+    ]
+  },
+  {
+    "name": "Secure container Gamma",
+    "itemID": "5857a8bc2459772bad15db29",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 3
+      }
+    ]
+  },
+  {
+    "name": "Secure container Epsilon",
+    "itemID": "59db794186f77448bc595262",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 4,
+        "vertical": 4
+      }
+    ]
+  },
+  {
+    "name": "Secure container Beta",
+    "itemID": "5857a8b324597729ab0a0e7d",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 4,
+        "vertical": 3
+      }
+    ]
+  },
+  {
+    "name": "Secure container Alpha",
+    "itemID": "544a11ac4bdc2d470e8b456a",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 4,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Waist pouch",
+    "itemID": "5732ee6a24597719ae0c0281",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 2,
+        "vertical": 2
+      }
+    ]
+  }
+]

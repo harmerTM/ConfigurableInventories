@@ -1,0 +1,1482 @@
+[
+  {
+    "name": "Belt-A + Belt-B gear rig",
+    "itemID": "5c0e6a1586f77404597b4965",
+    "layout": "Beltab", // Default: "Beltab"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 12
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 13
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 14
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 15
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 16
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 17
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 18
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 19
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Velocity Systems MPPV Multi-Purpose Patrol Vest",
+    "itemID": "5df8a42886f77412640e2e75",
+    "layout": "mppv", // Default: "mppv"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 12
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 13
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 14
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "ANA Tactical Alpha chest rig",
+    "itemID": "592c2d1a86f7746dbe2af32a",
+    "layout": "ANA Tactical", // Default: "ANA Tactical"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 7
+      {
+        "horizontal": 2,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Azimut SS Zhuk chest harness (Black)",
+    "itemID": "603648ff5a45383c122086ac",
+    "layout": "azimut1", // Default: "azimut1"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Azimut SS Zhuk chest harness (SURPAT)",
+    "itemID": "6040dd4ddcf9592f401632d2",
+    "layout": "azimut1", // Default: "azimut1"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "BlackRock chest rig",
+    "itemID": "5648a69d4bdc2ded0b8b457b",
+    "layout": "blackrock", // Default: "blackrock"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "WARTECH MK3 TV-104 chest rig",
+    "itemID": "5ab8dab586f77441cd04f2a2",
+    "layout": "Wartech MK3", // Default: "Wartech MK3"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 11
+      {
+        "horizontal": 2,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "LBT-1961A Load Bearing Chest Rig",
+    "itemID": "5e9db13186f7742f845ee9d3",
+    "layout": "Bearing", // Default: "Bearing"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "LBT-1961A Load Bearing Chest Rig (Goons Edition)",
+    "itemID": "628baf0b967de16aab5a4f36",
+    "layout": "Bearing", // Default: "Bearing"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Stich Profi Chest Rig MK2 (Assault, A-TACS FG)",
+    "itemID": "60a621c49c197e4e8c4455e6",
+    "layout": "sprofi_mk2", // Default: "sprofi_mk2"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 12
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Stich Profi Chest Rig MK2 (Recon, A-TACS FG)",
+    "itemID": "60a6220e953894617404b00a",
+    "layout": "sprofi_mk2_smg", // Default: "sprofi_mk2_smg"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 11
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 12
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Gear Craft GC-BSS-MK1 chest rig",
+    "itemID": "5fd4c60f875c30179f5d04c2",
+    "layout": "D3crx", // Default: "D3crx"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "BlackHawk! Commando chest harness (Black)",
+    "itemID": "5c0e9f2c86f77432297fe0a3",
+    "layout": "Commando", // Default: "Commando"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "BlackHawk! Commando chest harness (Desert Tan)",
+    "itemID": "5b44c8ea86f7742d1627baf1",
+    "layout": "Commando", // Default: "Commando"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Haley Strategic D3CRX Chest Harness",
+    "itemID": "5d5d85c586f774279a21cbdb",
+    "layout": "D3crx", // Default: "D3crx"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Direct Action Thunderbolt compact chest rig",
+    "itemID": "5f5f41f56760b4138443b352",
+    "layout": "Thunder_compl", // Default: "Thunder_compl"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Dynaforce Triton M43-A chest harness",
+    "itemID": "5ca20abf86f77418567a43f2",
+    "layout": "Commando", // Default: "Commando"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Umka M33-SET1 hunter vest",
+    "itemID": "6034cf5fffd42c541047f72e",
+    "layout": "umka_m33", // Default: "umka_m33"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Splav Tarzan M22 chest rig",
+    "itemID": "5e4abfed86f77406a2713cf7",
+    "layout": "Tarzan", // Default: "Tarzan"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 9
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 10
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Azimut SS Khamelion chest harness (Olive)",
+    "itemID": "63611865ba5b90db0c0399d1",
+    "layout": "6h112", // Default: "6h112"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "UMTBS 6sh112 Scout-Sniper",
+    "itemID": "5929a2a086f7744f4b234d43",
+    "layout": "6h112", // Default: "6h112"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 8
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "CSA chest rig",
+    "itemID": "6034d0230ca681766b6a0fb5",
+    "layout": "mil_tac", // Default: "mil_tac"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 3
+      }
+    ]
+  },
+  {
+    "name": "Type 56 Chicom chest harness",
+    "itemID": "64be7110bf597ba84a0a41ea",
+    "layout": "chicom", // Default: "chicom"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "WARTECH TV-109 + TV-106 chest rig",
+    "itemID": "59e7643b86f7742cbf2c109a",
+    "layout": "Wartech Rig", // Default: "Wartech Rig"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "DIY IDEA chest rig",
+    "itemID": "5fd4c4fa16cac650092f6771",
+    "layout": "bank_robber", // Default: "bank_robber"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Spiritus Systems Bank Robber chest rig",
+    "itemID": "5e4abc1f86f774069619fbaa",
+    "layout": "bank_robber", // Default: "bank_robber"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "SOE Micro Rig",
+    "itemID": "5d5d8ca986f7742798716522",
+    "layout": "Micro", // Default: "Micro"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Scav Vest",
+    "itemID": "572b7adb24597762ae139821",
+    "layout": "Wild Wild Vest", // Default: "Wild Wild Vest"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Security vest",
+    "itemID": "5fd4c5477a8d854fa0105061",
+    "layout": "Wild Wild Vest", // Default: "Wild Wild Vest"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Zulu Nylon Gear M4 Reduced Signature Chest Rig",
+    "itemID": "64be7095047e826eae02b0c1",
+    "layout": "zulu", // Default: "zulu"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  }
+]

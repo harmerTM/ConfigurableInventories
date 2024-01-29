@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Карманы 1 на 4 со спец слотами",
+    "itemID": "627a4e6b255f7527fb05a0f6",
+    "removeFilters": false,
+    "grid": [
+      {
+        // Slot 1
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  }
+]

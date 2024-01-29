@@ -1,0 +1,481 @@
+[
+  {
+    "name": "6Sh118 raid backpack",
+    "itemID": "5df8a4d786f77412672a1e3b",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 16
+      }
+    ]
+  },
+  {
+    "name": "LBT-2670 Slim Field Med Pack",
+    "itemID": "5e4abc6786f77406812bd572",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 16
+      }
+    ]
+  },
+  {
+    "name": "Mystery Ranch Blackjack 50 backpack Multicam",
+    "itemID": "5c0e774286f77468413cc5b2",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 14
+      }
+    ]
+  },
+  {
+    "name": "Eberlestock F4 Terminator load bearing backpack Tiger Stripe",
+    "itemID": "5f5e46b96bdad616ad46d613",
+    "layout": "", // Default: "f4_term"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 6,
+        "vertical": 13
+      },
+      // Slot 2
+      {
+        "horizontal": -1,
+        "vertical": 0
+      },
+      // Slot 3
+      {
+        "horizontal": -1,
+        "vertical": 0
+      }
+    ]
+  },
+  {
+    "name": "SSO Attack 2 raid backpack",
+    "itemID": "5ab8ebf186f7742d8b372e80",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 12
+      }
+    ]
+  },
+  {
+    "name": "Tasmanian Tiger Trooper 35 backpack",
+    "itemID": "639346cc1c8f182ad90c8972",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 12
+      }
+    ]
+  },
+  {
+    "name": "Pilgrim tourist backpack",
+    "itemID": "59e763f286f7742ee57895da",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 12
+      }
+    ]
+  },
+  {
+    "name": "Santas Bag",
+    "itemID": "61b9e1aaef9a1b5d6a79899a",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 12
+      }
+    ]
+  },
+  {
+    "name": "3V Gear Paratus 3-Day Operators Tactical backpack",
+    "itemID": "5c0e805e86f774683f3dd637",
+    "layout": "", // Default: "Paratus"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 6,
+        "vertical": 12
+      },
+      // Slot 2
+      {
+        "horizontal": -1,
+        "vertical": 0
+      },
+      // Slot 3
+      {
+        "horizontal": -1,
+        "vertical": 0
+      },
+      // Slot 4
+      {
+        "horizontal": -1,
+        "vertical": 0
+      }
+    ]
+  },
+  {
+    "name": "Eberlestock G2 Gunslinger II backpack Dry Earth",
+    "itemID": "6034d2d697633951dc245ea6",
+    "layout": "", // Default: "gunslinger1"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 6,
+        "vertical": 12
+      },
+      // Slot 2
+      {
+        "horizontal": -1,
+        "vertical": 0
+      },
+      // Slot 3
+      {
+        "horizontal": -1,
+        "vertical": 0
+      }
+    ]
+  },
+  {
+    "name": "Oakley Mechanism heavy duty backpack Black",
+    "itemID": "5d5d940f86f7742797262046",
+    "layout": "", // Default: "oakley"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 6,
+        "vertical": 11
+      },
+      // Slot 2
+      {
+        "horizontal": -1,
+        "vertical": 0
+      },
+      // Slot 3
+      {
+        "horizontal": -1,
+        "vertical": 0
+      },
+      // Slot 4
+      {
+        "horizontal": -1,
+        "vertical": 0
+      },
+      // Slot 5
+      {
+        "horizontal": -1,
+        "vertical": 0
+      }
+    ]
+  },
+  {
+    "name": "ANA Tactical Beta 2 Battle backpack",
+    "itemID": "5b44c6ae86f7742d1627baea",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "Gruppa 99 T30 Backpack",
+    "itemID": "628e1ffc83ec92260c0f437f",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "Gruppa 99 T30 Backpack (Multicam)",
+    "itemID": "62a1b7fbc30cfa1d366af586",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "Eberlestock F5 Switchblade backpack Dry Earth",
+    "itemID": "5f5e467b0bc58666c37e7821",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "Camelbak TriZip assault backpack",
+    "itemID": "545cdae64bdc2d39198b4568",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "LBT-1476A 3Day Pack Woodland",
+    "itemID": "618cfae774bb2d036a049e7c",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 9
+      }
+    ]
+  },
+  {
+    "name": "Gruppa 99 T20 backpack",
+    "itemID": "618bb76513f5097c8d5aa2d5",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 9
+      }
+    ]
+  },
+  {
+    "name": "Gruppa 99 T20 backpack Black",
+    "itemID": "618bb76513f5097c8d5aa2d5",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 9
+      }
+    ]
+  },
+  {
+    "name": "Gruppa 99 T20 backpack Multicam",
+    "itemID": "619cf0335771dd3c390269ae",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 9
+      }
+    ]
+  },
+  {
+    "name": "Hazard 4 Drawbridge backpack Coyote Tan",
+    "itemID": "60a272cc93ef783291411d8e",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 9
+      }
+    ]
+  },
+  {
+    "name": "Hazard 4 Takedown sling backpack Black",
+    "itemID": "6034d103ca006d2dca39b3f0",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 8
+      }
+    ]
+  },
+  {
+    "name": "Hazard 4 Takedown sling backpack Multicam",
+    "itemID": "6038d614d10cbf667352dd44",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 8
+      }
+    ]
+  },
+  {
+    "name": "Hazard 4 Pillbox backpack",
+    "itemID": "60a2828e8689911a226117f9",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 7
+      }
+    ]
+  },
+  {
+    "name": "Scav backpack",
+    "itemID": "56e335e4d2720b6c058b456d",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 7
+      }
+    ]
+  },
+  {
+    "name": "WARTECH Berkut BB102 backpack",
+    "itemID": "5ca20d5986f774331e7c9602",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 7
+      }
+    ]
+  },
+  {
+    "name": "LBT-8005A Day Pack backpack",
+    "itemID": "5e9dcf5986f7746c417435b3",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 7
+      }
+    ]
+  },
+  {
+    "name": "Sanitars bag",
+    "itemID": "5e997f0b86f7741ac73993e2",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 6
+      }
+    ]
+  },
+  {
+    "name": "Flyye MBSS backpack",
+    "itemID": "544a5cde4bdc2d39388b456b",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 6
+      }
+    ]
+  },
+  {
+    "name": "Mystery Ranch NICE COMM 3 BVS frame system",
+    "itemID": "628bc7fb408e2b2e9c0801b1",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 5
+      }
+    ]
+  },
+  {
+    "name": "Duffle bag",
+    "itemID": "56e33634d2720bd8058b456b",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 4
+      }
+    ]
+  },
+  {
+    "name": "LolKek 3F Transfer tourist backpack",
+    "itemID": "5f5e45cc5021ce62144be7aa",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 4
+      }
+    ]
+  },
+  {
+    "name": "Transformer Bag",
+    "itemID": "56e33680d2720be2748b4576",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 3
+      }
+    ]
+  },
+  {
+    "name": "VKBO army bag",
+    "itemID": "5ab8ee7786f7742d8f33f0b9",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 4,
+        "vertical": 4
+      }
+    ]
+  },
+  {
+    "name": "Tactical sling bag",
+    "itemID": "5ab8f04f86f774585f4237d8",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 4,
+        "vertical": 3
+      }
+    ]
+  }
+]
