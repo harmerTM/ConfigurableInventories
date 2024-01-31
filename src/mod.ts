@@ -14,23 +14,13 @@ class ConfigurableInventories implements IPostDBLoadMod
         const databaseServer = container.resolve<DatabaseServer>("DatabaseServer");
         const tables: IDatabaseTables = databaseServer.getTables();
         const items = Object.values(tables.templates.items);
+        const randomID = (): string => `${Math.random().toString(36).substring(2, 10)}-${Date.now().toString(36)}`;
 
         const loadJsoncFile = (filename: string) =>
             jsonc.parse(
                 vfs.readFile(path.resolve(__dirname, `../config/${filename}.jsonc`))
             );
-
-        // Load configurations for different item categories
-        const [backpacks, cases, plateCarriers, pockets, rigs, secureContainers] = [
-            "backpacks",
-            "cases",
-            "plateCarriers",
-            "pockets",
-            "rigs",
-            "secureContainers"
-        ].map(loadJsoncFile);
-
-        // Process and update item properties based on configurations
+            
         const processItems = (itemsList: any[]) => 
         {
             itemsList.forEach((item) => 
@@ -39,10 +29,28 @@ class ConfigurableInventories implements IPostDBLoadMod
                 if (_props) 
                 {
                     _props.GridLayoutName = _props.RigLayoutName = item.layout;
-
-                    // Update grid properties
                     item.grid.forEach(({ horizontal, vertical }, g) => 
                     {
+
+                        if (!_props.Grids[g]) 
+                        {
+                            _props.Grids[g] = {
+                                _id: randomID(),
+                                _name: g + 1,
+                                _parent: item.itemID,
+                                _props: {
+                                    cellsH: 1,
+                                    cellsV: 1,
+                                    filters: [],
+                                    minCount: 0,
+                                    maxCount: 0,
+                                    maxWeight: 0,
+                                    isSortingTable: false
+                                },
+                                _proto: "55d329c24bdc2d892f8b4567"
+                            };
+                        }
+
                         const gridProps = _props.Grids[g]._props;
                         Object.assign(gridProps, {
                             cellsH: horizontal,
@@ -50,25 +58,17 @@ class ConfigurableInventories implements IPostDBLoadMod
                             filters: item.removeFilters ? [] : gridProps.filters
                         });
                     });
-
-                    // Remove grids if layout is empty (for backpacks)
-                    if (item.layout === "" && itemsList === backpacks) 
+                    if (item.layout === "") 
                     {
-                        _props.Grids.splice(1);
+                        _props.Grids = _props.Grids.filter((grid: { _props: { cellsH: number } }) => grid._props.cellsH !== -1);
                     }
                 }
             });
         };
 
-        // Process items for each category
-        processItems([
-            ...backpacks,
-            ...cases,
-            ...plateCarriers,
-            ...pockets,
-            ...rigs,
-            ...secureContainers
-        ]);
+        const categories = ["backpacks", "cases", "plateCarriers", "pockets", "rigs", "secureContainers"];
+        const inventory = categories.map(loadJsoncFile).flat();
+        processItems(inventory);
     }
 }
 
