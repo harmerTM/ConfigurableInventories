@@ -1,0 +1,8 @@
+{
+    "backpacks": true,
+    "cases": true,
+    "plateCarriers": true,
+    "pockets": true,
+    "rigs": true,
+    "secureContainers": true
+}

@@ -48,13 +48,13 @@
       },
       // Slot 2
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       },
       // Slot 3
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       }
     ]
   },
@@ -119,18 +119,18 @@
       },
       // Slot 2
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       },
       // Slot 3
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       },
       // Slot 4
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       }
     ]
   },
@@ -147,13 +147,13 @@
       },
       // Slot 2
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       },
       // Slot 3
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       }
     ]
   },
@@ -170,23 +170,23 @@
       },
       // Slot 2
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       },
       // Slot 3
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       },
       // Slot 4
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       },
       // Slot 5
       {
-        "horizontal": -1,
-        "vertical": 0
+        "horizontal": 0,
+        "vertical": -1
       }
     ]
   },

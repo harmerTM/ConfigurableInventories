@@ -20,7 +20,7 @@ class ConfigurableInventories implements IPostDBLoadMod
             jsonc.parse(
                 vfs.readFile(path.resolve(__dirname, `../config/${filename}.jsonc`))
             );
-            
+
         const processItems = (itemsList: any[]) => 
         {
             itemsList.forEach((item) => 
@@ -61,13 +61,16 @@ class ConfigurableInventories implements IPostDBLoadMod
                     if (item.layout === "") 
                     {
                         _props.Grids = _props.Grids.filter((grid: { _props: { cellsH: number } }) => grid._props.cellsH !== -1);
+                        _props.Grids = _props.Grids.filter((grid: { _props: { cellsV: number } }) => grid._props.cellsV !== -1);
                     }
                 }
             });
         };
 
+        const categoriesConfig = loadJsoncFile("inventoriesEnabled");
         const categories = ["backpacks", "cases", "plateCarriers", "pockets", "rigs", "secureContainers"];
-        const inventory = categories.map(loadJsoncFile).flat();
+        const enabledCategories = categories.filter(category => categoriesConfig[category]);
+        const inventory = enabledCategories.map(loadJsoncFile).flat();
         processItems(inventory);
     }
 }
