@@ -1,14 +1,14 @@
 {
-    "name": "ConfigurableInventories",
-    "version": "1.4.1",
+    "name": "configurable-inventories",
+    "version": "1.5.0-beta",
     "main": "src/mod.js",
     "license": "MIT",
     "author": "Harmer",
-    "akiVersion": "3.8.0",
+    "sptVersion": ">= 3.9.0",
     "loadBefore": [],
     "loadAfter": [],
     "incompatibilities": [],
-    "contributors": [],
+    "contributors": ["Super"],
     "isBundleMod": false,
     "scripts": {
         "setup": "npm i",
