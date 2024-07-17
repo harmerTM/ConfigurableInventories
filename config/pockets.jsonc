@@ -25,5 +25,32 @@
         "vertical": 2
       }
     ]
-  }
+  },
+  {
+    "name": "Карманы 1 на 4 TUE",
+    "itemID": "65e080be269cbd5c5005e529",
+    "removeFilters": false,
+    "grid": [
+      {
+        // Slot 1
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
 ]
