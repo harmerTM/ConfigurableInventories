@@ -42,7 +42,7 @@
     "removeFilters": false,
     "grid": [
       {
-        "horizontal": 3,
+        "horizontal": 6,
         "vertical": 3
       }
     ]
