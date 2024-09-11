@@ -61,7 +61,7 @@
   {
     "name": "Mystery Ranch SATL Bridger Assault Pack (Foliage)",
     "itemID": "656e0436d44a1bb4220303a0",
-    "layout": "SATL_Bridger",
+    "layout": "", // Default: "SATL_Bridger"
     "removeFilters": false,
     "grid": [
       // Slot 1
@@ -276,7 +276,7 @@
   {
     "name": "Tehinkom RK-PT-25 patrol backpack (Digital Flora)",
     "itemID": "656ddcf0f02d7bcea90bf395",
-    "layout": "Tehinkom",
+    "layout": "", // Default: "Tehinkom"
     "removeFilters": false,
     "grid": [
       // Slot 1
@@ -309,7 +309,7 @@
   {
     "name": "Direct Action Dragon Egg Mark II backpack (Black)",
     "itemID": "656f198fb27298d6fd005466",
-    "layout": "Dragon_Egg_MK2",
+    "layout": "", // Default: "Dragon_Egg_MK2"
     "removeFilters": false,
     "grid": [
       // Slot 1
