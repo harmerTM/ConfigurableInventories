@@ -11,6 +11,43 @@
     ]
   },
   {
+    "name": "Secure container Theta",
+    "itemID": "664a55d84a90fc2c8a6305c9",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+
+      {
+        "horizontal": 1,
+        "vertical": 2
+      }
+    ]
+  },
+  {
+    "name": "Secure container Unheard Gamma",
+    "itemID": "665ee77ccf2d642e98220bca",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 3,
+        "vertical": 3
+      }
+    ]
+  },
+  {
     "name": "Secure container Gamma",
     "itemID": "5857a8bc2459772bad15db29",
     "removeFilters": false,
