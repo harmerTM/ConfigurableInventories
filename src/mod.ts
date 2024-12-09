@@ -2,12 +2,17 @@ import { DependencyContainer } from "tsyringe";
 import { IPostDBLoadMod } from "@spt/models/external/IPostDBLoadMod";
 import { DatabaseServer } from "@spt/servers/DatabaseServer";
 import { IDatabaseTables } from "@spt/models/spt/server/IDatabaseTables";
+import { LogTextColor } from "@spt/models/spt/logging/LogTextColor";
+import { ILogger } from "@spt/models/spt/utils/ILogger";
 import { VFS } from "@spt/utils/VFS";
 import { jsonc } from "jsonc";
 import path from "path";
 
 class ConfigurableInventories implements IPostDBLoadMod 
 {
+    // Get Package attributes/info
+    private mod = require("../package.json");
+
     public postDBLoad(container: DependencyContainer): void 
     {
         const vfs = container.resolve<VFS>("VFS");
@@ -20,6 +25,10 @@ class ConfigurableInventories implements IPostDBLoadMod
             jsonc.parse(
                 vfs.readFile(path.resolve(__dirname, `../config/${filename}.jsonc`))
             );
+
+        // Get logger
+        const color = LogTextColor
+        const logger = container.resolve<ILogger>("WinstonLogger");
 
         const processItems = (itemsList: any[]) => 
         {
@@ -72,6 +81,8 @@ class ConfigurableInventories implements IPostDBLoadMod
         const enabledCategories = categories.filter(category => categoriesConfig[category]);
         const inventory = enabledCategories.map(loadJsoncFile).flat();
         processItems(inventory);
+
+        logger.log(`[${this.mod.name}@${this.mod.version}] Loaded successfully.`, color.GREEN)
     }
 }
 
