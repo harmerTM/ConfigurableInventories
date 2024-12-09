@@ -7,7 +7,7 @@
       {
         // Slot 1
         "horizontal": 1,
-        "vertical": 2
+        "vertical": 1
       },
       // Slot 2
       {
@@ -22,7 +22,7 @@
       // Slot 4
       {
         "horizontal": 1,
-        "vertical": 2
+        "vertical": 1
       }
     ]
   },
