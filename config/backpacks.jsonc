@@ -303,6 +303,11 @@
       {
         "horizontal": 0,
         "vertical": -1
+      },
+      // Slot 6
+      {
+        "horizontal": 0,
+        "vertical": -1
       }
     ]
   },
@@ -414,6 +419,18 @@
     ]
   },
   {
+    "name": "Partisan's bag",
+    "itemID": "66a9f98f3bd5a41b162030f4",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 5,
+        "vertical": 8
+      }
+    ]
+  },
+  {
     "name": "Hazard 4 Pillbox backpack",
     "itemID": "60a2828e8689911a226117f9",
     "layout": "",
@@ -476,6 +493,18 @@
   {
     "name": "Flyye MBSS backpack",
     "itemID": "544a5cde4bdc2d39388b456b",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 6
+      }
+    ]
+  },
+  {
+    "name": "Vertx Ready Pack backpack (Red)",
+    "itemID": "66b5f247af44ca0014063c02",
     "layout": "",
     "removeFilters": false,
     "grid": [

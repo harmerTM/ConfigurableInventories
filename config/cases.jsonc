@@ -44,6 +44,17 @@
     ]
   },
   {
+    "name": "Streamer item case",
+    "itemID": "66bc98a01a47be227a5e956e",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 14,
+        "vertical": 11
+      }
+    ]
+  },
+  {
     "name": "Item case",
     "itemID": "59fb042886f7746c5005a7b2",
     "removeFilters": false,

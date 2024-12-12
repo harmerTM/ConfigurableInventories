@@ -539,6 +539,49 @@
     ]
   },
   {
+    "name": "Stich Profi Plate Carrier V2 (Black)",
+    "itemID": "66b6296d7994640992013b17",
+    "layout": "rig_stich_profi", // Default: "rig_stich_profi"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 2,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 2,
+        "vertical": 1
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 7
+      {
+        "horizontal": 2,
+        "vertical": 2
+      }
+    ]
+  },
+  {
     "name": "ECLiPSE RBAV-AF plate carrier (Ranger Green)",
     "itemID": "628dc750b910320f4c27a732",
     "layout": "rbaf_af", // Default: "rbaf_af"
@@ -862,6 +905,44 @@
     ]
   },
   {
+    "name": "Tasmanian Tiger Plate Carrier MKIII (Coyote Brown)",
+    "itemID": "66b6295a8ca68c6461709efa",
+    "layout": "rig_stich_3", // Default: "rig_stich_3"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 5
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 3
+      }
+    ]
+  },
+  {
     "name": "Eagle Industries MMAC plate carrier (Ranger Green)",
     "itemID": "61bc85697113f767765c7fe7",
     "layout": "mmac", // Default: "mmac"
@@ -906,6 +987,49 @@
       {
         "horizontal": 1,
         "vertical": 1
+      }
+    ]
+  },
+  {
+    "name": "Stich Profi Stich Defense mod.2 plate carrier (MultiCam)",
+    "itemID": "66b6295178bbc0200425f995",
+    "layout": "rig_stich_defence", // Default: "rig_stich_defence"
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 5
+      {
+        "horizontal": 2,
+        "vertical": 1
+      },
+      // Slot 6
+      {
+        "horizontal": 1,
+        "vertical": 3
+      },
+      // Slot 7
+      {
+        "horizontal": 1,
+        "vertical": 3
       }
     ]
   },

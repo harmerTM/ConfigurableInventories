@@ -1,6 +1,6 @@
 [
   {
-    "name": "Карманы 1 на 4 со спец слотами",
+    "name": "Карманы 1 на 4 со спец слотами", // Normal Pockets
     "itemID": "627a4e6b255f7527fb05a0f6",
     "removeFilters": false,
     "grid": [
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "name": "Карманы 1 на 4 TUE",
+    "name": "Карманы 1 на 4 TUE", // Unheard Pockets
     "itemID": "65e080be269cbd5c5005e529",
     "removeFilters": false,
     "grid": [
