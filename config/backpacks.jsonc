@@ -262,8 +262,20 @@
     ]
   },
   {
-    "name": "Camelbak TriZip assault backpack",
+    "name": "Camelbak Tri-Zip assault backpack (Foliage)",
     "itemID": "545cdae64bdc2d39198b4568",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 10
+      }
+    ]
+  },
+  {
+    "name": "Camelbak Tri-Zip assault backpack (MultiCam)",
+    "itemID": "66b5f22b78bbc0200425f904",
     "layout": "",
     "removeFilters": false,
     "grid": [
