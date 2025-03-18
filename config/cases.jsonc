@@ -1,5 +1,16 @@
 [
   {
+    "name": "Ballistic plate case",
+    "itemID": "67600929bd0a0549d70993f6",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 8,
+        "vertical": 12
+      }
+    ]
+  },
+  {
     "name": "Lucky Scav Junk box",
     "itemID": "5b7c710788a4506dec015957",
     "removeFilters": false,
