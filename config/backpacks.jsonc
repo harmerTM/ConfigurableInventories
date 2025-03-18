@@ -347,7 +347,19 @@
     ]
   },
   {
-    "name": "LBT-1476A 3Day Pack Woodland",
+    "name": "LBT-1476A 3Day Pack (MultiCam Alpine)",
+    "itemID": "67458794e21e5d724e066976",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 9
+      }
+    ]
+  },
+  {
+    "name": "LBT-1476A 3Day Pack (Woodland)",
     "itemID": "618cfae774bb2d036a049e7c",
     "layout": "",
     "removeFilters": false,
