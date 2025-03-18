@@ -1,5 +1,33 @@
 [
   {
+    "name": "5.11 Tactical RUSH 100 backpack (Black)",
+    "itemID": "67458730df3c1da90b0b052b",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 2
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 2,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 5,
+        "vertical": 7
+      }
+    ]
+  },
+  {
     "name": "6Sh118 raid backpack",
     "itemID": "5df8a4d786f77412672a1e3b",
     "layout": "",
@@ -24,7 +52,43 @@
     ]
   },
   {
-    "name": "Mystery Ranch Blackjack 50 backpack Multicam",
+    "name": "Mystery Ranch Terraframe backpack (Christmas Edition)",
+    "itemID": "674da9cf0cb4bcde7103c07b",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 2,
+        "vertical": 5
+      },
+      // Slot 2
+      {
+        "horizontal": 4,
+        "vertical": 5
+      }
+    ]
+  },
+  {
+    "name": "Mystery Ranch Terraframe backpack (Olive Drab)",
+    "itemID": "674da107c512807d1a0e7436",
+    "layout": "",
+    "removeFilters": false,
+    "grid": [
+      // Slot 1
+      {
+        "horizontal": 2,
+        "vertical": 5
+      },
+      // Slot 2
+      {
+        "horizontal": 4,
+        "vertical": 5
+      }
+    ]
+  },
+  {
+    "name": "Mystery Ranch Blackjack 50 backpack (MultiCam)",
     "itemID": "5c0e774286f77468413cc5b2",
     "layout": "",
     "removeFilters": false,
