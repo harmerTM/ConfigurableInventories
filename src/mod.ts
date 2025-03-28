@@ -4,7 +4,7 @@ import { DatabaseServer } from "@spt/servers/DatabaseServer";
 import { IDatabaseTables } from "@spt/models/spt/server/IDatabaseTables";
 import { LogTextColor } from "@spt/models/spt/logging/LogTextColor";
 import { ILogger } from "@spt/models/spt/utils/ILogger";
-import { VFS } from "@spt/utils/VFS";
+import { FileSystemSync } from "@spt/utils/FileSystemSync";
 import { jsonc } from "jsonc";
 import path from "path";
 
@@ -15,7 +15,7 @@ class ConfigurableInventories implements IPostDBLoadMod
 
     public postDBLoad(container: DependencyContainer): void 
     {
-        const vfs = container.resolve<VFS>("VFS");
+        const fs = container.resolve<FileSystemSync>("FileSystemSync");
         const databaseServer = container.resolve<DatabaseServer>("DatabaseServer");
         const tables: IDatabaseTables = databaseServer.getTables();
         const items = Object.values(tables.templates.items);
@@ -23,7 +23,7 @@ class ConfigurableInventories implements IPostDBLoadMod
 
         const loadJsoncFile = (filename: string) =>
             jsonc.parse(
-                vfs.readFile(path.resolve(__dirname, `../config/${filename}.jsonc`))
+                fs.read(path.resolve(__dirname, `../config/${filename}.jsonc`))
             );
 
         // Get logger
