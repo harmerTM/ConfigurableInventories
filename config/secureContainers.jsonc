@@ -1,4 +1,15 @@
 [
+    {
+    "name": "Secure container Kappa (Desecrated)",
+    "itemID": "676008db84e242067d0dc4c9",
+    "removeFilters": false,
+    "grid": [
+      {
+        "horizontal": 6,
+        "vertical": 4
+      }
+    ]
+  },
   {
     "name": "Secure container Kappa",
     "itemID": "5c093ca986f7740a1867ab12",

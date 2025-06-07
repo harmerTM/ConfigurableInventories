@@ -2,7 +2,7 @@
   {
     "name": "5.11 Tactical RUSH 100 backpack (Black)",
     "itemID": "67458730df3c1da90b0b052b",
-    "layout": "",
+    "layout": "rush_100", // Added layout, needs testing
     "removeFilters": false,
     "grid": [
       // Slot 1
@@ -54,7 +54,7 @@
   {
     "name": "Mystery Ranch Terraframe backpack (Christmas Edition)",
     "itemID": "674da9cf0cb4bcde7103c07b",
-    "layout": "",
+    "layout": "", // Default: "terraframe"
     "removeFilters": false,
     "grid": [
       // Slot 1
@@ -72,7 +72,7 @@
   {
     "name": "Mystery Ranch Terraframe backpack (Olive Drab)",
     "itemID": "674da107c512807d1a0e7436",
-    "layout": "",
+    "layout": "", // Default: "terraframe"
     "removeFilters": false,
     "grid": [
       // Slot 1
